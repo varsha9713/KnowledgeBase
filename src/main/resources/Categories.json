@@ -1,0 +1,16 @@
+[	{
+		"knowlwdgeId" : "1",
+		"categoryId" : "1",
+		"categoryName" : "Account Management"
+	},
+	{
+		"knowlwdgeId" : "1",
+		"categoryId" : "2",
+		"categoryName" : "Credit and Loan"
+	},
+	{
+		"knowlwdgeId" : "2",
+		"categoryId" : "1",
+		"categoryName" : "Investment"
+	}
+]
